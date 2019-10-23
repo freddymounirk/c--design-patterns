@@ -1,5 +1,8 @@
-public enum PriceAction
+namespace design_patterns
 {
-    Increase,
-    Decrease
+    public enum PriceAction
+    {
+        Increase,
+        Decrease
+    }
 }

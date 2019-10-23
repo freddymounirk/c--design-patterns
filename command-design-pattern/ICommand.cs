@@ -1,5 +1,8 @@
 //ICommand interface
-public interface ICommand
+namespace design_patterns
 {
-    void ExcecuteAction();
+    public interface ICommand
+    {
+        void ExcecuteAction();
+    }
 }
