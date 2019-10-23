@@ -1,0 +1,11 @@
+C:\my codes\design-patterns\bin\Debug\netcoreapp3.0\design-patterns.exe
+C:\my codes\design-patterns\bin\Debug\netcoreapp3.0\design-patterns.deps.json
+C:\my codes\design-patterns\bin\Debug\netcoreapp3.0\design-patterns.runtimeconfig.json
+C:\my codes\design-patterns\bin\Debug\netcoreapp3.0\design-patterns.runtimeconfig.dev.json
+C:\my codes\design-patterns\bin\Debug\netcoreapp3.0\design-patterns.dll
+C:\my codes\design-patterns\bin\Debug\netcoreapp3.0\design-patterns.pdb
+C:\my codes\design-patterns\obj\Debug\netcoreapp3.0\design-patterns.csprojAssemblyReference.cache
+C:\my codes\design-patterns\obj\Debug\netcoreapp3.0\design-patterns.AssemblyInfoInputs.cache
+C:\my codes\design-patterns\obj\Debug\netcoreapp3.0\design-patterns.AssemblyInfo.cs
+C:\my codes\design-patterns\obj\Debug\netcoreapp3.0\design-patterns.dll
+C:\my codes\design-patterns\obj\Debug\netcoreapp3.0\design-patterns.pdb
